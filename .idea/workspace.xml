@@ -2,6 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bfd7736e-e48f-40c1-acf9-306712366401" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/D1-15/Day11/guido.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/D1-15/Day11/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/D1-15/Day11/a.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/D1-15/Day11/cp.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/D1-15/Day11/eg1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/D1-15/Day11/eg2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/D1-15/Day11/read.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/D1-15/Day11/with.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/D1-15/Day11/write.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Python_100_days.iws" />
@@ -20,6 +29,7 @@
     <SUITE FILE_PATH="coverage/Python_100_days$eg1__1_.coverage" NAME="eg1 (1) Coverage Results" MODIFIED="1559722826448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day9" />
     <SUITE FILE_PATH="coverage/Python_100_days$eg3__1_.coverage" NAME="eg3 (1) Coverage Results" MODIFIED="1559113557663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day7" />
     <SUITE FILE_PATH="coverage/Python_100_days$daqiuchixiaoqiu.coverage" NAME="daqiuchixiaoqiu Coverage Results" MODIFIED="1560149966646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day10" />
+    <SUITE FILE_PATH="coverage/Python_100_days$read.coverage" NAME="read Coverage Results" MODIFIED="1560221974863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day11" />
     <SUITE FILE_PATH="coverage/Python_100_days$fanyi.coverage" NAME="fanyi Coverage Results" MODIFIED="1557282487304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day1" />
     <SUITE FILE_PATH="coverage/Python_100_days$paomadeng.coverage" NAME="paomadeng Coverage Results" MODIFIED="1559122395088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day7" />
     <SUITE FILE_PATH="coverage/Python_100_days$wanmeishu.coverage" NAME="wanmeishu Coverage Results" MODIFIED="1558409459311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day5" />
@@ -42,22 +52,25 @@
     <SUITE FILE_PATH="coverage/Python_100_days$aoteman.coverage" NAME="aoteman Coverage Results" MODIFIED="1559804986179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day9" />
     <SUITE FILE_PATH="coverage/Python_100_days$feibolaqie.coverage" NAME="feibolaqie Coverage Results" MODIFIED="1558421712674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day5" />
     <SUITE FILE_PATH="coverage/Python_100_days$eg4__1_.coverage" NAME="eg4 (1) Coverage Results" MODIFIED="1559115111861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day7" />
+    <SUITE FILE_PATH="coverage/Python_100_days$cp.coverage" NAME="cp Coverage Results" MODIFIED="1560223842079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day11" />
     <SUITE FILE_PATH="coverage/Python_100_days$juli.coverage" NAME="juli Coverage Results" MODIFIED="1559636240331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day8" />
-    <SUITE FILE_PATH="coverage/Python_100_days$eg2.coverage" NAME="eg2 Coverage Results" MODIFIED="1559632988079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day8" />
     <SUITE FILE_PATH="coverage/Python_100_days$eg5.coverage" NAME="eg5 Coverage Results" MODIFIED="1559790418407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day9" />
+    <SUITE FILE_PATH="coverage/Python_100_days$eg2.coverage" NAME="eg2 Coverage Results" MODIFIED="1560224791020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day11" />
     <SUITE FILE_PATH="coverage/Python_100_days$eg8.coverage" NAME="eg8 Coverage Results" MODIFIED="1559121395284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day7" />
     <SUITE FILE_PATH="coverage/Python_100_days$houzhuiming.coverage" NAME="houzhuiming Coverage Results" MODIFIED="1559200517795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day7" />
     <SUITE FILE_PATH="coverage/Python_100_days$c_s.coverage" NAME="c_s Coverage Results" MODIFIED="1557381247038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day2" />
     <SUITE FILE_PATH="coverage/Python_100_days$for3.coverage" NAME="for3 Coverage Results" MODIFIED="1558337307810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day4" />
     <SUITE FILE_PATH="coverage/Python_100_days$piqi.coverage" NAME="piqi Coverage Results" MODIFIED="1557299292505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day1" />
     <SUITE FILE_PATH="coverage/Python_100_days$gonggong.coverage" NAME="gonggong Coverage Results" MODIFIED="1558338089298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day4" />
+    <SUITE FILE_PATH="coverage/Python_100_days$with.coverage" NAME="with Coverage Results" MODIFIED="1560222782708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day11" />
     <SUITE FILE_PATH="coverage/Python_100_days$craps.coverage" NAME="craps Coverage Results" MODIFIED="1558422694921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day5" />
     <SUITE FILE_PATH="coverage/Python_100_days$sushu.coverage" NAME="sushu Coverage Results" MODIFIED="1558337737176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day4" />
+    <SUITE FILE_PATH="coverage/Python_100_days$write.coverage" NAME="write Coverage Results" MODIFIED="1560223436013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day11" />
     <SUITE FILE_PATH="coverage/Python_100_days$for1.coverage" NAME="for1 Coverage Results" MODIFIED="1558321720691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day4" />
     <SUITE FILE_PATH="coverage/Python_100_days$hello.coverage" NAME="hello Coverage Results" MODIFIED="1557195002059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_100_days$eg9.coverage" NAME="eg9 Coverage Results" MODIFIED="1559121808249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day7" />
     <SUITE FILE_PATH="coverage/Python_100_days$eg6.coverage" NAME="eg6 Coverage Results" MODIFIED="1559118655596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day7" />
-    <SUITE FILE_PATH="coverage/Python_100_days$eg1.coverage" NAME="eg1 Coverage Results" MODIFIED="1560146412368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day10" />
+    <SUITE FILE_PATH="coverage/Python_100_days$eg1.coverage" NAME="eg1 Coverage Results" MODIFIED="1560224394530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day11" />
     <SUITE FILE_PATH="coverage/Python_100_days$fenduanhanshu.coverage" NAME="fenduanhanshu Coverage Results" MODIFIED="1557458754514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day3" />
   </component>
   <component name="CreatePatchCommitExecutor">
@@ -69,13 +82,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="daqiuchixiaoqiu.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/D1-15/Day10/daqiuchixiaoqiu.py">
+      <file leaf-file-name="eg1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/D1-15/Day11/eg1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.2378716">
-              <caret line="113" column="29" selection-start-line="113" selection-start-column="29" selection-end-line="113" selection-end-column="29" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="data.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/D1-15/Day11/data.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="64" selection-start-line="0" selection-start-column="64" selection-end-line="0" selection-end-column="64" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="eg2.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/D1-15/Day11/eg2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.2973396">
+              <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
               <folding>
-                <element signature="e#0#13#0" expanded="true" />
+                <element signature="e#0#15#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -96,13 +129,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/D1-15/Day2/c_s.py" />
-        <option value="$PROJECT_DIR$/D1-15/Day2/yunnian.py" />
-        <option value="$PROJECT_DIR$/D1-15/Day3/shenfenyanzheng.py" />
-        <option value="$PROJECT_DIR$/D1-15/Day3/fenduanhanshu.py" />
-        <option value="$PROJECT_DIR$/D1-15/Day3/danweihuhuan.py" />
-        <option value="$PROJECT_DIR$/D1-15/Day4/for1.py" />
-        <option value="$PROJECT_DIR$/D1-15/Day4/for2.py" />
         <option value="$PROJECT_DIR$/D1-15/Day4/for3.py" />
         <option value="$PROJECT_DIR$/D1-15/Day4/while1.py" />
         <option value="$PROJECT_DIR$/D1-15/Day4/for4.py" />
@@ -147,6 +173,13 @@
         <option value="$PROJECT_DIR$/D1-15/Day9/gongzijiesuan.py" />
         <option value="$PROJECT_DIR$/D1-15/Day10/eg1.py" />
         <option value="$PROJECT_DIR$/D1-15/Day10/daqiuchixiaoqiu.py" />
+        <option value="$PROJECT_DIR$/D1-15/Day11/read.py" />
+        <option value="$PROJECT_DIR$/D1-15/Day11/with.py" />
+        <option value="$PROJECT_DIR$/D1-15/Day11/a.txt" />
+        <option value="$PROJECT_DIR$/D1-15/Day11/write.py" />
+        <option value="$PROJECT_DIR$/D1-15/Day11/cp.py" />
+        <option value="$PROJECT_DIR$/D1-15/Day11/eg1.py" />
+        <option value="$PROJECT_DIR$/D1-15/Day11/eg2.py" />
       </list>
     </option>
   </component>
@@ -158,8 +191,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="408" />
-    <option name="y" value="88" />
+    <option name="x" value="928" />
+    <option name="y" value="52" />
     <option name="width" value="1224" />
     <option name="height" value="988" />
   </component>
@@ -186,6 +219,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -232,14 +267,12 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Day10" />
+              <option name="myItemId" value="Day11" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -252,61 +285,62 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\study\Python_100_days\D1-15\Day11" />
       <recent name="E:\study\Python_100_days\D1-15\Day1" />
       <recent name="E:\study\Python_100_days\D1-15" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.daqiuchixiaoqiu">
-    <configuration default="false" name="aoteman" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.eg2">
+    <configuration default="false" name="with" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D1-15/Day9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D1-15/Day11" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python_100_days" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D1-15/Day9/aoteman.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D1-15/Day11/with.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="puke" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="write" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D1-15/Day9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D1-15/Day11" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python_100_days" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D1-15/Day9/puke.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D1-15/Day11/write.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="gongzijiesuan" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="cp" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D1-15/Day9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D1-15/Day11" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python_100_days" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D1-15/Day9/gongzijiesuan.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D1-15/Day11/cp.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -318,31 +352,31 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D1-15/Day10" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D1-15/Day11" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python_100_days" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D1-15/Day10/eg1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D1-15/Day11/eg1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="daqiuchixiaoqiu" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="eg2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D1-15/Day10" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D1-15/Day11" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python_100_days" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D1-15/Day10/daqiuchixiaoqiu.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D1-15/Day11/eg2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -536,19 +570,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.aoteman" />
-      <item index="1" class="java.lang.String" itemvalue="Python.puke" />
-      <item index="2" class="java.lang.String" itemvalue="Python.gongzijiesuan" />
+      <item index="0" class="java.lang.String" itemvalue="Python.with" />
+      <item index="1" class="java.lang.String" itemvalue="Python.write" />
+      <item index="2" class="java.lang.String" itemvalue="Python.cp" />
       <item index="3" class="java.lang.String" itemvalue="Python.eg1" />
-      <item index="4" class="java.lang.String" itemvalue="Python.daqiuchixiaoqiu" />
+      <item index="4" class="java.lang.String" itemvalue="Python.eg2" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.daqiuchixiaoqiu" />
+        <item index="0" class="java.lang.String" itemvalue="Python.eg2" />
         <item index="1" class="java.lang.String" itemvalue="Python.eg1" />
-        <item index="2" class="java.lang.String" itemvalue="Python.gongzijiesuan" />
-        <item index="3" class="java.lang.String" itemvalue="Python.puke" />
-        <item index="4" class="java.lang.String" itemvalue="Python.aoteman" />
+        <item index="2" class="java.lang.String" itemvalue="Python.cp" />
+        <item index="3" class="java.lang.String" itemvalue="Python.write" />
+        <item index="4" class="java.lang.String" itemvalue="Python.with" />
       </list>
     </recent_temporary>
   </component>
@@ -566,10 +600,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="408" y="88" width="1224" height="988" extended-state="0" />
-    <editor active="false" />
+    <frame x="928" y="52" width="1224" height="988" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18642612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18986255" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -606,97 +640,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/D1-15/Day2/wenduzhuanhuan.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/D1-15/Day2/c_s.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/D1-15/Day3/fenduanhanshu.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23325893">
-          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/D1-15/Day3/shenfenyanzheng.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.16964285">
-          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/Anaconda3/Lib/random.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-34.678303">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/D1-15/Day4/sanjiaoxing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2555746">
-          <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/D1-15/Day4/gonggong.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39108062">
-          <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/D1-15/Day4/sushu.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.42367068">
-          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/D1-15/Day4/for4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22813036">
-          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/D1-15/Day4/while1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.097770154">
-          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/D1-15/Day4/for3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1303602">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/D1-15/Day4/for2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19554031">
-          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/D1-15/Day4/for1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22813036">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/D1-15/Day6/eg3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.19451371">
@@ -932,7 +875,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5772947">
           <caret line="83" column="11" selection-start-line="83" selection-start-column="11" selection-end-line="83" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -940,7 +882,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6099034">
           <caret line="105" column="22" selection-start-line="105" selection-start-column="22" selection-end-line="105" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -948,9 +889,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.79347825">
           <caret line="220" column="0" selection-start-line="220" selection-start-column="0" selection-end-line="220" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#39#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -958,16 +896,115 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6541471">
           <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/D1-15/Day10/daqiuchixiaoqiu.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.2378716">
+        <state vertical-scroll-proportion="0.6395089">
           <caret line="113" column="29" selection-start-line="113" selection-start-column="29" selection-end-line="113" selection-end-column="29" />
           <folding>
-            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#0#13#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D1-15/Day11/d.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.230047">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D1-15/Day11/c.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.5164319">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D1-15/Day11/b.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D1-15/Day11/write.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.52425665">
+          <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D1-15/Day11/a.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.02973396">
+          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D1-15/Day11/read.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4460094">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D1-15/Day11/with.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.62441313">
+          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D1-15/Day11/guido.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D1-15/Day11/几多.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D1-15/Day11/cp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26760563">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D1-15/Day11/eg1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D1-15/Day11/data.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="64" selection-start-line="0" selection-start-column="64" selection-end-line="0" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D1-15/Day11/eg2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2973396">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
