@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bfd7736e-e48f-40c1-acf9-306712366401" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/D1-15/Day12/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/D1-15/Day12/eg1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/D1-15/Day12/eg2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/D1-15/Day12/eg3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/D1-15/Day13/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/D1-15/Day13/eg1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/D1-15/Day13/eg2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/D1-15/Day13/eg3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/D1-15/Day13/eg4.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/D1-15/Day13/eg5.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/D1-15/Day13/eg6.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/D1-15/Day13/eg7.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Python_100_days.iws" />
@@ -21,51 +25,53 @@
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Python_100_days$eg2__1_.coverage" NAME="eg2 (1) Coverage Results" MODIFIED="1560320197694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day12" />
-    <SUITE FILE_PATH="coverage/Python_100_days$eg1__1_.coverage" NAME="eg1 (1) Coverage Results" MODIFIED="1560307025971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day12" />
-    <SUITE FILE_PATH="coverage/Python_100_days$eg3__1_.coverage" NAME="eg3 (1) Coverage Results" MODIFIED="1559113557663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day7" />
     <SUITE FILE_PATH="coverage/Python_100_days$daqiuchixiaoqiu.coverage" NAME="daqiuchixiaoqiu Coverage Results" MODIFIED="1560149966646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day10" />
     <SUITE FILE_PATH="coverage/Python_100_days$read.coverage" NAME="read Coverage Results" MODIFIED="1560221974863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day11" />
     <SUITE FILE_PATH="coverage/Python_100_days$fanyi.coverage" NAME="fanyi Coverage Results" MODIFIED="1557282487304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day1" />
     <SUITE FILE_PATH="coverage/Python_100_days$paomadeng.coverage" NAME="paomadeng Coverage Results" MODIFIED="1559122395088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day7" />
     <SUITE FILE_PATH="coverage/Python_100_days$wanmeishu.coverage" NAME="wanmeishu Coverage Results" MODIFIED="1558409459311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day5" />
-    <SUITE FILE_PATH="coverage/Python_100_days$eg4.coverage" NAME="eg4 Coverage Results" MODIFIED="1559789452152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day9" />
-    <SUITE FILE_PATH="coverage/Python_100_days$gongzijiesuan.coverage" NAME="gongzijiesuan Coverage Results" MODIFIED="1559812425347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day9" />
     <SUITE FILE_PATH="coverage/Python_100_days$eg3.coverage" NAME="eg3 Coverage Results" MODIFIED="1560320431017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day12" />
     <SUITE FILE_PATH="coverage/Python_100_days$wenduzhuanhuan.coverage" NAME="wenduzhuanhuan Coverage Results" MODIFIED="1557370755297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day2" />
     <SUITE FILE_PATH="coverage/Python_100_days$for4.coverage" NAME="for4 Coverage Results" MODIFIED="1558337392881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day4" />
-    <SUITE FILE_PATH="coverage/Python_100_days$eg7.coverage" NAME="eg7 Coverage Results" MODIFIED="1559120163609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day7" />
-    <SUITE FILE_PATH="coverage/Python_100_days$shizhong.coverage" NAME="shizhong Coverage Results" MODIFIED="1559636211095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day8" />
     <SUITE FILE_PATH="coverage/Python_100_days$dijitian.coverage" NAME="dijitian Coverage Results" MODIFIED="1559201585384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day7" />
     <SUITE FILE_PATH="coverage/Python_100_days$yanghuisanjiao.coverage" NAME="yanghuisanjiao Coverage Results" MODIFIED="1559202306648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day7" />
-    <SUITE FILE_PATH="coverage/Python_100_days$puke.coverage" NAME="puke Coverage Results" MODIFIED="1559811283704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day9" />
-    <SUITE FILE_PATH="coverage/Python_100_days$baiqianbaiji.coverage" NAME="baiqianbaiji Coverage Results" MODIFIED="1558421686856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day5" />
     <SUITE FILE_PATH="coverage/Python_100_days$shenfenyanzheng.coverage" NAME="shenfenyanzheng Coverage Results" MODIFIED="1557458573983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day3" />
-    <SUITE FILE_PATH="coverage/Python_100_days$yunnian.coverage" NAME="yunnian Coverage Results" MODIFIED="1557381720086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day2" />
     <SUITE FILE_PATH="coverage/Python_100_days$shuixianhua.coverage" NAME="shuixianhua Coverage Results" MODIFIED="1558409122230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day5" />
     <SUITE FILE_PATH="coverage/Python_100_days$suijiyanzhengma.coverage" NAME="suijiyanzhengma Coverage Results" MODIFIED="1559200500380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day7" />
-    <SUITE FILE_PATH="coverage/Python_100_days$for2.coverage" NAME="for2 Coverage Results" MODIFIED="1558331845248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day4" />
     <SUITE FILE_PATH="coverage/Python_100_days$aoteman.coverage" NAME="aoteman Coverage Results" MODIFIED="1559804986179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day9" />
     <SUITE FILE_PATH="coverage/Python_100_days$feibolaqie.coverage" NAME="feibolaqie Coverage Results" MODIFIED="1558421712674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day5" />
     <SUITE FILE_PATH="coverage/Python_100_days$eg4__1_.coverage" NAME="eg4 (1) Coverage Results" MODIFIED="1559115111861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day7" />
-    <SUITE FILE_PATH="coverage/Python_100_days$cp.coverage" NAME="cp Coverage Results" MODIFIED="1560223842079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day11" />
     <SUITE FILE_PATH="coverage/Python_100_days$juli.coverage" NAME="juli Coverage Results" MODIFIED="1559636240331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day8" />
-    <SUITE FILE_PATH="coverage/Python_100_days$eg5.coverage" NAME="eg5 Coverage Results" MODIFIED="1559790418407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day9" />
     <SUITE FILE_PATH="coverage/Python_100_days$eg2.coverage" NAME="eg2 Coverage Results" MODIFIED="1560224791020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day11" />
-    <SUITE FILE_PATH="coverage/Python_100_days$eg8.coverage" NAME="eg8 Coverage Results" MODIFIED="1559121395284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day7" />
-    <SUITE FILE_PATH="coverage/Python_100_days$houzhuiming.coverage" NAME="houzhuiming Coverage Results" MODIFIED="1559200517795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day7" />
+    <SUITE FILE_PATH="coverage/Python_100_days$eg5.coverage" NAME="eg5 Coverage Results" MODIFIED="1560847039701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day13" />
     <SUITE FILE_PATH="coverage/Python_100_days$c_s.coverage" NAME="c_s Coverage Results" MODIFIED="1557381247038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day2" />
-    <SUITE FILE_PATH="coverage/Python_100_days$for3.coverage" NAME="for3 Coverage Results" MODIFIED="1558337307810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day4" />
     <SUITE FILE_PATH="coverage/Python_100_days$piqi.coverage" NAME="piqi Coverage Results" MODIFIED="1557299292505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day1" />
     <SUITE FILE_PATH="coverage/Python_100_days$gonggong.coverage" NAME="gonggong Coverage Results" MODIFIED="1558338089298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day4" />
     <SUITE FILE_PATH="coverage/Python_100_days$with.coverage" NAME="with Coverage Results" MODIFIED="1560222782708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day11" />
-    <SUITE FILE_PATH="coverage/Python_100_days$craps.coverage" NAME="craps Coverage Results" MODIFIED="1558422694921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day5" />
     <SUITE FILE_PATH="coverage/Python_100_days$sushu.coverage" NAME="sushu Coverage Results" MODIFIED="1558337737176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day4" />
     <SUITE FILE_PATH="coverage/Python_100_days$write.coverage" NAME="write Coverage Results" MODIFIED="1560223436013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day11" />
     <SUITE FILE_PATH="coverage/Python_100_days$for1.coverage" NAME="for1 Coverage Results" MODIFIED="1558321720691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day4" />
     <SUITE FILE_PATH="coverage/Python_100_days$hello.coverage" NAME="hello Coverage Results" MODIFIED="1557195002059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python_100_days$eg9.coverage" NAME="eg9 Coverage Results" MODIFIED="1559121808249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day7" />
-    <SUITE FILE_PATH="coverage/Python_100_days$eg6.coverage" NAME="eg6 Coverage Results" MODIFIED="1559118655596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day7" />
     <SUITE FILE_PATH="coverage/Python_100_days$eg1.coverage" NAME="eg1 Coverage Results" MODIFIED="1560224394530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day11" />
+    <SUITE FILE_PATH="coverage/Python_100_days$eg6.coverage" NAME="eg6 Coverage Results" MODIFIED="1560848762067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day13" />
+    <SUITE FILE_PATH="coverage/Python_100_days$eg1__1_.coverage" NAME="eg1 (1) Coverage Results" MODIFIED="1560307025971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day12" />
+    <SUITE FILE_PATH="coverage/Python_100_days$eg3__1_.coverage" NAME="eg3 (1) Coverage Results" MODIFIED="1560827320110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day13" />
+    <SUITE FILE_PATH="coverage/Python_100_days$gongzijiesuan.coverage" NAME="gongzijiesuan Coverage Results" MODIFIED="1559812425347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day9" />
+    <SUITE FILE_PATH="coverage/Python_100_days$eg4.coverage" NAME="eg4 Coverage Results" MODIFIED="1560828956314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day13" />
+    <SUITE FILE_PATH="coverage/Python_100_days$eg7.coverage" NAME="eg7 Coverage Results" MODIFIED="1560852134340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day13" />
+    <SUITE FILE_PATH="coverage/Python_100_days$shizhong.coverage" NAME="shizhong Coverage Results" MODIFIED="1559636211095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day8" />
+    <SUITE FILE_PATH="coverage/Python_100_days$puke.coverage" NAME="puke Coverage Results" MODIFIED="1559811283704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day9" />
+    <SUITE FILE_PATH="coverage/Python_100_days$baiqianbaiji.coverage" NAME="baiqianbaiji Coverage Results" MODIFIED="1558421686856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day5" />
+    <SUITE FILE_PATH="coverage/Python_100_days$yunnian.coverage" NAME="yunnian Coverage Results" MODIFIED="1557381720086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day2" />
+    <SUITE FILE_PATH="coverage/Python_100_days$for2.coverage" NAME="for2 Coverage Results" MODIFIED="1558331845248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day4" />
+    <SUITE FILE_PATH="coverage/Python_100_days$cp.coverage" NAME="cp Coverage Results" MODIFIED="1560223842079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day11" />
+    <SUITE FILE_PATH="coverage/Python_100_days$eg8.coverage" NAME="eg8 Coverage Results" MODIFIED="1560910131240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day13" />
+    <SUITE FILE_PATH="coverage/Python_100_days$houzhuiming.coverage" NAME="houzhuiming Coverage Results" MODIFIED="1559200517795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day7" />
+    <SUITE FILE_PATH="coverage/Python_100_days$for3.coverage" NAME="for3 Coverage Results" MODIFIED="1558337307810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day4" />
+    <SUITE FILE_PATH="coverage/Python_100_days$eg2__2_.coverage" NAME="eg2 (2) Coverage Results" MODIFIED="1560826216137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day13" />
+    <SUITE FILE_PATH="coverage/Python_100_days$craps.coverage" NAME="craps Coverage Results" MODIFIED="1558422694921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day5" />
+    <SUITE FILE_PATH="coverage/Python_100_days$eg1__2_.coverage" NAME="eg1 (2) Coverage Results" MODIFIED="1560825669501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day13" />
+    <SUITE FILE_PATH="coverage/Python_100_days$eg9.coverage" NAME="eg9 Coverage Results" MODIFIED="1560910752626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day13" />
     <SUITE FILE_PATH="coverage/Python_100_days$fenduanhanshu.coverage" NAME="fenduanhanshu Coverage Results" MODIFIED="1557458754514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/D1-15/Day3" />
   </component>
   <component name="CreatePatchCommitExecutor">
@@ -77,21 +83,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="eg2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/D1-15/Day12/eg2.py">
+      <file leaf-file-name="eg9.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/D1-15/Day13/eg9.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
-              <folding />
+            <state vertical-scroll-proportion="0.7918623">
+              <caret line="38" column="10" selection-start-line="38" selection-start-column="10" selection-end-line="38" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="eg3.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/D1-15/Day12/eg3.py">
+      <file leaf-file-name="eg8.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/D1-15/Day13/eg8.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.32707354">
-              <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -112,16 +120,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/D1-15/Day4/sushu.py" />
-        <option value="$PROJECT_DIR$/D1-15/Day4/gonggong.py" />
-        <option value="$PROJECT_DIR$/D1-15/Day4/sanjiaoxing.py" />
-        <option value="$PROJECT_DIR$/D1-15/Day5/shuixianhua.py" />
-        <option value="$PROJECT_DIR$/D1-15/Day5/wanmeishu.py" />
-        <option value="$PROJECT_DIR$/D1-15/Day5/baiqianbaiji.py" />
-        <option value="$PROJECT_DIR$/D1-15/Day5/feibolaqie.py" />
-        <option value="$PROJECT_DIR$/D1-15/Day5/craps.py" />
-        <option value="$PROJECT_DIR$/D1-15/Day6/eg1.py" />
-        <option value="$PROJECT_DIR$/D1-15/Day6/eg2.py" />
         <option value="$PROJECT_DIR$/D1-15/Day6/eg3.py" />
         <option value="$PROJECT_DIR$/D1-15/Day6/eg4.py" />
         <option value="$PROJECT_DIR$/D1-15/Day7/eg1.py" />
@@ -163,6 +161,16 @@
         <option value="$PROJECT_DIR$/D1-15/Day12/eg1.py" />
         <option value="$PROJECT_DIR$/D1-15/Day12/eg2.py" />
         <option value="$PROJECT_DIR$/D1-15/Day12/eg3.py" />
+        <option value="$PROJECT_DIR$/D1-15/Day13/eg1.py" />
+        <option value="$PROJECT_DIR$/D1-15/Day13/eg2.py" />
+        <option value="$PROJECT_DIR$/D1-15/Day13/eg3.py" />
+        <option value="$PROJECT_DIR$/D1-15/Day13/eg4.py" />
+        <option value="$PROJECT_DIR$/D1-15/Day13/eg5.py" />
+        <option value="$PROJECT_DIR$/D1-15/Day13/e6.py" />
+        <option value="$PROJECT_DIR$/D1-15/Day13/eg6.py" />
+        <option value="$PROJECT_DIR$/D1-15/Day13/eg7.py" />
+        <option value="$PROJECT_DIR$/D1-15/Day13/eg8.py" />
+        <option value="$PROJECT_DIR$/D1-15/Day13/eg9.py" />
       </list>
     </option>
   </component>
@@ -174,8 +182,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="746" />
-    <option name="y" value="50" />
+    <option name="x" value="788" />
+    <option name="y" value="46" />
     <option name="width" value="1224" />
     <option name="height" value="988" />
   </component>
@@ -202,8 +210,8 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -250,7 +258,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Day12" />
+              <option name="myItemId" value="Day13" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -273,93 +281,93 @@
       <recent name="E:\study\Python_100_days\D1-15" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.eg3">
-    <configuration default="false" name="eg1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.eg9">
+    <configuration default="false" name="eg5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D1-15/Day11" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D1-15/Day13" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python_100_days" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D1-15/Day11/eg1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D1-15/Day13/eg5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="eg2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="eg6" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D1-15/Day11" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D1-15/Day13" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python_100_days" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D1-15/Day11/eg2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D1-15/Day13/eg6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="eg1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="eg7" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D1-15/Day12" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D1-15/Day13" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python_100_days" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D1-15/Day12/eg1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D1-15/Day13/eg7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="eg2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="eg8" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D1-15/Day12" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D1-15/Day13" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python_100_days" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D1-15/Day12/eg2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D1-15/Day13/eg8.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="eg3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="eg9" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D1-15/Day12" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D1-15/Day13" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python_100_days" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D1-15/Day12/eg3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D1-15/Day13/eg9.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -553,19 +561,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.eg1" />
-      <item index="1" class="java.lang.String" itemvalue="Python.eg2" />
-      <item index="2" class="java.lang.String" itemvalue="Python.eg1 (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Python.eg2 (1)" />
-      <item index="4" class="java.lang.String" itemvalue="Python.eg3" />
+      <item index="0" class="java.lang.String" itemvalue="Python.eg5" />
+      <item index="1" class="java.lang.String" itemvalue="Python.eg6" />
+      <item index="2" class="java.lang.String" itemvalue="Python.eg7" />
+      <item index="3" class="java.lang.String" itemvalue="Python.eg8" />
+      <item index="4" class="java.lang.String" itemvalue="Python.eg9" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.eg3" />
-        <item index="1" class="java.lang.String" itemvalue="Python.eg2 (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Python.eg1 (1)" />
-        <item index="3" class="java.lang.String" itemvalue="Python.eg2" />
-        <item index="4" class="java.lang.String" itemvalue="Python.eg1" />
+        <item index="0" class="java.lang.String" itemvalue="Python.eg9" />
+        <item index="1" class="java.lang.String" itemvalue="Python.eg8" />
+        <item index="2" class="java.lang.String" itemvalue="Python.eg7" />
+        <item index="3" class="java.lang.String" itemvalue="Python.eg6" />
+        <item index="4" class="java.lang.String" itemvalue="Python.eg5" />
       </list>
     </recent_temporary>
   </component>
@@ -583,17 +591,17 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="746" y="50" width="1224" height="988" extended-state="0" />
-    <editor active="false" />
+    <frame x="788" y="46" width="1224" height="988" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22164948" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22852233" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329235" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22053675" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22053675" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -623,69 +631,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/D1-15/Day6/eg4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/D1-15/Day5/craps.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/D1-15/Day5/feibolaqie.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.521197">
-          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/D1-15/Day5/shuixianhua.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.56857854">
-          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/D1-15/Day5/wanmeishu.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.42643392">
-          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/D1-15/Day5/baiqianbaiji.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.56857854">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/D1-15/Day7/eg1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/D1-15/Day7/eg2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/D1-15/Day7/eg3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/D1-15/Day7/eg4.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -938,7 +883,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.0">
           <caret line="0" column="64" selection-start-line="0" selection-start-column="64" selection-end-line="0" selection-end-column="64" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -946,9 +890,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.21205357">
           <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#15#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -956,7 +897,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.46651787">
           <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -964,15 +904,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.713615">
           <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/D1-15/Day12/eg2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -980,7 +911,83 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.32707354">
           <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D1-15/Day12/eg2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43599033">
+          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D1-15/Day13/eg3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1486698">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D1-15/Day13/eg2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.773083">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D1-15/Day13/eg1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3865415">
+          <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D1-15/Day13/eg5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6541471">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D1-15/Day13/eg4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5946792">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D1-15/Day13/eg6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5649452">
+          <caret line="29" column="29" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D1-15/Day13/eg7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5524257">
+          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#11#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D1-15/Day13/eg8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D1-15/Day13/eg9.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7918623">
+          <caret line="38" column="10" selection-start-line="38" selection-start-column="10" selection-end-line="38" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
